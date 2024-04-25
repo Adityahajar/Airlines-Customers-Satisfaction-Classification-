@@ -13,3 +13,10 @@ Split the dataset into training and testing sets for model evaluation.
 Implemented a logistic regression model to classify customer satisfaction based on the processed dataset.
 Tuned hyperparameters and evaluated the model's performance using metrics such as accuracy, precision, recall, and F1-score.
 Visualized model evaluation results to gain insights into its performance.
+
+# Results
+Achieved a satisfactory level of accuracy in predicting customer satisfaction using the logistic regression model.
+Identified key factors influencing customer satisfaction based on feature importance analysis.
+
+# Conclusion
+This project demonstrates the application of exploratory data analysis, data preprocessing, and machine learning techniques to classify airline customers' satisfaction. By understanding customer preferences and feedback, airlines can make informed decisions to enhance their services and improve overall customer satisfaction.
